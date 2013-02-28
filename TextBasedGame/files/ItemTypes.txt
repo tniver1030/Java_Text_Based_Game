@@ -1,0 +1,6 @@
+Helm
+Chest
+Sword
+Legs
+----
+LastItem

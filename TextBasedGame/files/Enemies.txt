@@ -1,0 +1,7 @@
+Theif
+Goblin
+Dwarf
+Wraith
+Golem
+----
+LastItem
