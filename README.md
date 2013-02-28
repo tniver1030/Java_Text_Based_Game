@@ -5,4 +5,4 @@ This Text-Based Adventure Game was used to demonstrate Java programming to stude
 
 
 Created by Taylor Niver
-Contributors: Taylor Niver, Justin Etzine
+<br/>Contributors: Taylor Niver, Justin Etzine
